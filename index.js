@@ -7,7 +7,7 @@ const DOT_CONTRACT_ABI = dotDotDotAbi;
 const DOT_ADMIN_ADDRESS = "0xd29dcbd273d73714eb6bea7bd4f8d99d0fbc3398"
 
 const options = {
-  dappId: '25b387fb-bf21-42ec-a093-9d37e4267a7a',
+  dappId: 'YOUR_DAPP_ID', //Head to blocknative.com to setup your free account!
   networkId: 1,
   system: 'ethereum',
   ws: WebSocket,
